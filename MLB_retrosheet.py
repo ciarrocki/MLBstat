@@ -7,7 +7,7 @@ License: MIT License
 
 Description:
     Scripts to download and parse retrosheet.org event files.
-    
+
     The main parsing function, parse_retro_event_file, returns dictionaries
     containing data for all games and plate appearances in the file.   
 
@@ -22,7 +22,7 @@ Function List:
 
 ### TESTING/DEV
 
-TestFile1 = '/home/dan/MLB/data/retrosheet/EventFiles2010/2010ANA.EVA'
+TestFile1 = '/home/dan/MLBstat/data/retrosheet/EventFiles2010/2010ANA.EVA'
 
 
 

@@ -1,3 +1,4 @@
 data/
 local_development.env
 *.env
+__pycache__/
